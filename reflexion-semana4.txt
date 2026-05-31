@@ -1,0 +1,13 @@
+Es importante que las comunidades o iniciativas ciudadanas 
+puedan construir herramientas tecnológicas propias utilizando 
+tecnologías abiertas como Node.js porque les permite tener 
+independencia y control sobre sus proyectos. Al usar herramientas 
+abiertas, no dependen de grandes empresas y pueden adaptar 
+las soluciones a sus necesidades reales. Además, fomenta el 
+aprendizaje y el desarrollo de habilidades tecnológicas en las personas.
+Esto también ayuda a fortalecer la participación ciudadana y la innovación
+local. Node.js es una tecnología accesible que permite crear 
+aplicaciones útiles de manera sencilla. Así, las comunidades 
+pueden resolver problemas propios de su entorno. También promueve 
+el trabajo colaborativo y el uso responsable de la tecnología. 
+En general, contribuye al desarrollo social y digital.
